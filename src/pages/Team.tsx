@@ -4,8 +4,8 @@ import { AnimatedText } from "@/components/AnimatedText";
 export default function Team() {
   const teamMembers = [
     {
-      name: "John Smith",
-      role: "CEO & Founder",
+      name: "Swati Priya",
+      role: "Co-Founder",
       bio: "John has over 15 years of experience in web development and has led numerous successful projects for clients across various industries.",
       image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
