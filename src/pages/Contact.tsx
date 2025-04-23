@@ -48,7 +48,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">Our Location</h3>
-                    <p className="text-foreground/70">123 Innovation Lane, Tech City, TC 12345</p>
+                    <p className="text-foreground/70">813210 Bhagalpur, Bihar , TC 12345</p>
                   </div>
                 </div>
                 
@@ -60,7 +60,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">Email Us</h3>
-                    <p className="text-foreground/70">contact@webiify.com</p>
+                    <p className="text-foreground/70">webiifyworld@gmail.com</p>
                   </div>
                 </div>
                 
@@ -72,7 +72,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">Call Us</h3>
-                    <p className="text-foreground/70">+1 (555) 123-4567</p>
+                    <p className="text-foreground/70">+91 (843) 448-3189</p>
                   </div>
                 </div>
               </div>
