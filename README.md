@@ -2,15 +2,11 @@
 
 ## Project info
 
-**URL**:https://webiify-phi.vercel.app/ 
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bc0525b5-efaa-4437-a1a4-d07096453526) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
