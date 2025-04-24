@@ -1,4 +1,3 @@
-
 import { AnimatedText } from "@/components/AnimatedText";
 
 export default function Team() {
@@ -8,9 +7,11 @@ export default function Team() {
       role: "Co-Founder",
       bio: "Swati builds responsive, high-performance interfaces with precision. Her work ensures our websites are fast, accessible, and pixel-perfect across all devices",
       image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
+      image: "/src/components/swati.jpg",
+
       socialLinks: {
         twitter: "#",
-        linkedin: "#",
+        linkedin: "https://www.linkedin.com/in/swatipriya08/",
         github: "#"
       },
       delay: 0
@@ -19,11 +20,13 @@ export default function Team() {
       name: "Khushi",
       role: "Co-Founder",
       bio: "Khushi manages client communication, content planning, SEO, and CMS updates to ensure smooth project flow and optimized web presence.",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
+      image: "https://imgur.com/azU5LqK",
+      image: "/src/components/khushi.jpg",
+
       socialLinks: {
         twitter: "#",
-        linkedin: "#",
-        dribbble: "#"
+        linkedin: "https://www.linkedin.com/in/khushi-79554a22b/",
+        github: "#"
       },
       delay: 100
     },
@@ -31,11 +34,13 @@ export default function Team() {
       name: "Keshav Jha",
       role: "founder",
       bio: "Keshav leads our projects with a sharp focus on innovation and functionality. A full stack expert, he ensures every solution is scalable, efficient, and client-focused",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
+      image: "/src/components/keshav7.jpg",
       socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
+         linkedin: "https://www.linkedin.com/in/keshavjha005/",
+        github: "https://github.com/keshavjha005",
+        dribbble: "https://portfolio-keshav-eight.vercel.app/",
+        
+       
       },
       delay: 200
     },
@@ -44,27 +49,20 @@ export default function Team() {
       role: "Co-Founder",
       bio: "Srishti blends creativity with user-centered design, crafting interfaces that are both visually appealing and effortlessly intuitive",
       image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
+      image: "/src/components/srishti.png",
+
       socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        dribbble: "#"
+        
+        linkedin: "https://www.linkedin.com/in/srishtisaumya01",
+        github: "https://github.com/srishtisaumya01",
+        dribbble: ""
       },
       delay: 300
     },
 
  
    
-    {
-      name: "Olivia Turner",
-      role: "Project Manager",
-      bio: "Olivia keeps our projects on track, ensuring timely delivery while maintaining constant communication with our clients.",
-      image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
-      socialLinks: {
-        twitter: "#",
-        linkedin: "#"
-      },
-      delay: 700
-    },
+  
   ];
 
   return (
