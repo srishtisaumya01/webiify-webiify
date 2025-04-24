@@ -6,8 +6,7 @@ export default function Team() {
       name: "Swati Priya",
       role: "Co-Founder",
       bio: "Swati builds responsive, high-performance interfaces with precision. Her work ensures our websites are fast, accessible, and pixel-perfect across all devices",
-      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
-      image: "/src/components/swati.jpg",
+       image: "/src/components/swati.jpg",
 
       socialLinks: {
         twitter: "#",
@@ -20,8 +19,7 @@ export default function Team() {
       name: "Khushi",
       role: "Co-Founder",
       bio: "Khushi manages client communication, content planning, SEO, and CMS updates to ensure smooth project flow and optimized web presence.",
-      image: "https://imgur.com/azU5LqK",
-      image: "/src/components/khushi.jpg",
+     image: "/src/components/khushi.jpg",
 
       socialLinks: {
         twitter: "#",
@@ -48,8 +46,7 @@ export default function Team() {
       name: "Srishti Saumya",
       role: "Co-Founder",
       bio: "Srishti blends creativity with user-centered design, crafting interfaces that are both visually appealing and effortlessly intuitive",
-      image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
-      image: "/src/components/srishti.png",
+       image: "/src/components/srishti.png",
 
       socialLinks: {
         
