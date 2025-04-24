@@ -159,10 +159,10 @@ export default function About() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { number: "100+", label: "Clients" },
-              { number: "250+", label: "Projects" },
-              { number: "5+", label: "Years" },
-              { number: "15", label: "Team Members" },
+              { number: "50+", label: "Clients" },
+              { number: "100+", label: "Projects" },
+              { number: "2+", label: "Years" },
+              { number: "10", label: "Team Members" },
             ].map((stat, index) => (
               <div key={index} className="text-center animate-fade-in animate-delay-100">
                 <p className="text-3xl md:text-5xl font-bold text-gradient mb-2">{stat.number}</p>
