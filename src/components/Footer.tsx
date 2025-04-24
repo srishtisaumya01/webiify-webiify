@@ -27,7 +27,7 @@ export function Footer() {
 
         
             <p className="text-gray-300 mt-4 max-w-md">
-              At Webiify, we don't just build websites—we craft powerful digital experiences tailored to your business.
+              At webiify, we don't just build websites—we craft powerful digital experiences tailored to your business.
             </p>
             <div className="flex mt-6 space-x-4">
               <a href="https://www.linkedin.com/in/-webiify-/" className="text-gray-300 hover:text-white transition-colors">
@@ -133,7 +133,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-16 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Webiify. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} webiify. All rights reserved.</p>
         </div>
       </div>
     </footer>

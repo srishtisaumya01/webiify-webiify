@@ -48,7 +48,7 @@ export function Header() {
           <Link to="/" className="flex items-center space-x-2">
             <img 
               src="/lovable-uploads/b9b7d557-456c-45f5-aa1c-ffd0b29975bd.png" 
-              alt="Webiify Logo" 
+              alt="webiify Logo" 
               className="h-10 sm:h-12"
               style={{ filter: isScrolled ? "drop-shadow(0 0 10px rgba(50,150,255,0.9))" : "none" }}
             />

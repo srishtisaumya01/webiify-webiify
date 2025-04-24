@@ -13,16 +13,16 @@
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 210 79% 51%; /* Webiify Blue */
+    --primary: 210 79% 51%; /* webiify Blue */
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 262 80% 75%; /* Webiify Purple */
+    --secondary: 262 80% 75%; /* webiify Purple */
     --secondary-foreground: 0 0% 100%;
 
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
 
-    --accent: 158 35% 41%; /* Webiify Teal */
+    --accent: 158 35% 41%; /* webiify Teal */
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
@@ -30,7 +30,7 @@
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 262 80% 75%; /* Webiify Purple */
+    --ring: 262 80% 75%; /* webiify Purple */
 
     --radius: 0.5rem;
 
@@ -54,16 +54,16 @@
     --popover: 222 47% 11%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 210 79% 51%; /* Webiify Blue */
+    --primary: 210 79% 51%; /* webiify Blue */
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 262 80% 75%; /* Webiify Purple */
+    --secondary: 262 80% 75%; /* webiify Purple */
     --secondary-foreground: 0 0% 100%;
 
     --muted: 217.2 32.6% 17.5%;
     --muted-foreground: 215 20.2% 65.1%;
 
-    --accent: 122 39% 49%; /* Webiify Green */
+    --accent: 122 39% 49%; /* webiify Green */
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62.8% 30.6%;
@@ -71,7 +71,7 @@
 
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
-    --ring: 262 80% 75%; /* Webiify Purple */
+    --ring: 262 80% 75%; /* webiify Purple */
 
     --sidebar-background: 222 47% 11%;
     --sidebar-foreground: 210 40% 98%;

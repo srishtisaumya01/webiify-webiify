@@ -69,21 +69,21 @@ export default function WhyUs() {
 
   const testimonials = [
     {
-      quote: "Webiify transformed our online presence completely. Their team understood our vision perfectly and delivered a website that exceeded our expectations.",
+      quote: "webiify transformed our online presence completely. Their team understood our vision perfectly and delivered a website that exceeded our expectations.",
       author: "Sarah Johnson",
       company: "Innovate Solutions",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       delay: 0
     },
     {
-      quote: "Working with Webiify was a game-changer for our business. Their attention to detail and technical expertise helped us increase our conversion rate by 40%.",
+      quote: "Working with webiify was a game-changer for our business. Their attention to detail and technical expertise helped us increase our conversion rate by 40%.",
       author: "Mark Reynolds",
       company: "Growth Ventures",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       delay: 100
     },
     {
-      quote: "I've worked with many web developers before, but none matched the level of professionalism and skill that Webiify brings to the table.",
+      quote: "I've worked with many web developers before, but none matched the level of professionalism and skill that webiify brings to the table.",
       author: "Lisa Chen",
       company: "TechForward",
       image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
@@ -108,7 +108,7 @@ export default function WhyUs() {
               animation="fade"
             />
             <p className="text-foreground/80 text-lg animate-fade-in animate-delay-100">
-              Discover the Webiify difference and why businesses trust us with their digital presence.
+              Discover the webiify difference and why businesses trust us with their digital presence.
             </p>
           </div>
         </div>
@@ -120,14 +120,14 @@ export default function WhyUs() {
           <div className="text-center max-w-3xl mx-auto mb-16">
             <p className="text-webiify-blue font-medium mb-4 animate-fade-in">Our Advantages</p>
             <AnimatedText 
-              text="Why Clients Choose Webiify" 
+              text="Why Clients Choose webiify" 
               element="h2" 
               className="text-2xl md:text-4xl font-bold mb-6"
               gradient="default"
               animation="fade"
             />
             <p className="text-foreground/80 animate-fade-in animate-delay-100">
-              At Webiify, we offer more than just web development. We provide a complete partnership to help your business thrive online.
+              At webiify, we offer more than just web development. We provide a complete partnership to help your business thrive online.
             </p>
           </div>
           
@@ -152,14 +152,14 @@ export default function WhyUs() {
           <div className="text-center max-w-3xl mx-auto mb-16">
             <p className="text-webiify-purple font-medium mb-4 animate-fade-in">The Comparison</p>
             <AnimatedText 
-              text="Why Webiify Stands Out" 
+              text="Why webiify Stands Out" 
               element="h2" 
               className="text-2xl md:text-4xl font-bold mb-6"
               gradient="default"
               animation="fade"
             />
             <p className="text-foreground/80 animate-fade-in animate-delay-100">
-              See how we compare to other web development agencies and why Webiify is the right choice for your next project.
+              See how we compare to other web development agencies and why webiify is the right choice for your next project.
             </p>
           </div>
           
@@ -169,7 +169,7 @@ export default function WhyUs() {
                 <tr>
                   <th className="py-4 px-6 text-left bg-white dark:bg-gray-900 rounded-tl-lg">Features</th>
                   <th className="py-4 px-6 text-center bg-webiify-blue text-white font-bold">
-                    <span className="text-lg">Webiify</span>
+                    <span className="text-lg">webiify</span>
                   </th>
                   <th className="py-4 px-6 text-center bg-white dark:bg-gray-900 rounded-tr-lg">Others</th>
                 </tr>
@@ -226,7 +226,7 @@ export default function WhyUs() {
               animation="fade"
             />
             <p className="text-foreground/80 animate-fade-in animate-delay-100">
-              Don't just take our word for it. Hear what our clients have to say about working with Webiify.
+              Don't just take our word for it. Hear what our clients have to say about working with webiify.
             </p>
           </div>
           
@@ -260,7 +260,7 @@ export default function WhyUs() {
         <div className="container mx-auto px-4 sm:px-6 text-center">
           <div className="max-w-3xl mx-auto">
             <AnimatedText 
-              text="Ready to Experience the Webiify Difference?" 
+              text="Ready to Experience the webiify Difference?" 
               element="h2" 
               className="text-white text-2xl md:text-4xl font-bold mb-6"
               gradient="none"

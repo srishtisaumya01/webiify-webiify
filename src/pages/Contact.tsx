@@ -193,7 +193,7 @@ export default function Contact() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="rounded-xl overflow-hidden shadow-lg h-96 animate-fade-in">
             <iframe
-              title="Webiify Location"
+              title="webiify Location"
               className="w-full h-full border-0"
                src="https://maps.google.com/maps?q=Ank+villa%2C+SABOUR+%2C+Bhagalpur%2C+Bihar&output=embed"
               allowFullScreen

@@ -19,7 +19,7 @@ export default function About() {
               animation="fade"
             />
             <p className="text-foreground/80 text-lg animate-fade-in animate-delay-100">
-              Discover the story behind Webiify and our mission to create exceptional digital experiences.
+              Discover the story behind webiify and our mission to create exceptional digital experiences.
             </p>
           </div>
         </div>
@@ -36,7 +36,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-foreground/80">
                 <p>
-                  Webiify was founded with a simple yet powerful belief: that every business deserves an exceptional digital presence, regardless of size or industry.
+                  webiify was founded with a simple yet powerful belief: that every business deserves an exceptional digital presence, regardless of size or industry.
                 </p>
                 <p>
                   What started as a small team of passionate developers has grown into a full-service web development agency with a reputation for excellence, innovation, and reliability.
@@ -74,7 +74,7 @@ export default function About() {
               animation="fade"
             />
             <p className="text-foreground/80 animate-fade-in animate-delay-100">
-              At the heart of Webiify are core values that guide every project we undertake and every line of code we write.
+              At the heart of webiify are core values that guide every project we undertake and every line of code we write.
             </p>
           </div>
           

@@ -15,7 +15,7 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6 relative">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="text-center lg:text-left">
-              <p className="text-webiify-purple animate-fade-in font-medium mb-4">Welcome to Webiify</p>
+              <p className="text-webiify-purple animate-fade-in font-medium mb-4">Welcome to webiify</p>
               <AnimatedText 
                 text="Your Vision, Our Code" 
                 element="h1" 
@@ -25,7 +25,7 @@ export default function Home() {
               />
               
               <p className="text-foreground/80 text-lg md:text-xl mb-8 max-w-lg mx-auto lg:mx-0 animate-fade-in animate-delay-100">
-                At Webiify, we don't just build websites—we craft powerful digital experiences tailored to your business.
+                At webiify, we don't just build websites—we craft powerful digital experiences tailored to your business.
               </p>
               
               <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 animate-fade-in animate-delay-200">
@@ -41,7 +41,7 @@ export default function Home() {
             <div className="relative animate-slide-in-right">
               <img
                 src="/lovable-uploads/ee58312e-1aa5-4ff1-8078-eb7f09290c75.png"
-                alt="Webiify Logo"
+                alt="webiify Logo"
                 className="w-full max-w-md mx-auto lg:max-w-full animate-float select-none"
                 style={{
                   filter: "drop-shadow(0 0 20px rgba(156, 146, 172, 0.3))",
@@ -72,7 +72,7 @@ export default function Home() {
             />
             <p className="text-foreground/70 max-w-2xl mx-auto animate-fade-in animate-delay-100">
               We specialize in building fast, responsive, and scalable websites using the MERN stack.
-              Whether you're launching a new business or upgrading an existing site, Webiify is your one-stop solution.
+              Whether you're launching a new business or upgrading an existing site, webiify is your one-stop solution.
             </p>
           </div>
           

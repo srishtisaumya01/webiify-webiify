@@ -75,7 +75,7 @@ export default function Team() {
           <div className="text-center max-w-3xl mx-auto">
             <p className="text-webiify-purple animate-fade-in font-medium mb-4">Our Team</p>
             <AnimatedText 
-              text="Meet the Talented Team Behind Webiify" 
+              text="Meet the Talented Team Behind webiify" 
               element="h1" 
               className="text-3xl md:text-5xl font-bold mb-6"
               gradient="default"
