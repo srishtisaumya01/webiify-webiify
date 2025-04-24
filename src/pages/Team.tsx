@@ -6,7 +6,7 @@ export default function Team() {
     {
       name: "Swati Priya",
       role: "Co-Founder",
-      bio: "John has over 15 years of experience in web development and has led numerous successful projects for clients across various industries.",
+      bio: "Swati builds responsive, high-performance interfaces with precision. Her work ensures our websites are fast, accessible, and pixel-perfect across all devices",
       image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
         twitter: "#",
@@ -18,7 +18,7 @@ export default function Team() {
     {
       name: "Khushi",
       role: "Co-Founder",
-      bio: "Emily brings creative vision and user experience expertise to every project, ensuring our websites are not just functional but beautiful.",
+      bio: "Khushi manages client communication, content planning, SEO, and CMS updates to ensure smooth project flow and optimized web presence.",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
         twitter: "#",
@@ -30,7 +30,7 @@ export default function Team() {
     {
       name: "Keshav Jha",
       role: "founder",
-      bio: "Michael is a MERN stack expert with a passion for creating efficient, scalable web applications that deliver exceptional user experiences.",
+      bio: "Keshav leads our projects with a sharp focus on innovation and functionality. A full stack expert, he ensures every solution is scalable, efficient, and client-focused",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
         twitter: "#",
@@ -41,8 +41,8 @@ export default function Team() {
     },
     {
       name: "Srishti Saumya",
-      role: "Co-",
-      bio: "Sarah specializes in creating intuitive user interfaces and seamless user experiences that help our clients connect with their audience.",
+      role: "Co-Founder",
+      bio: "Srishti blends creativity with user-centered design, crafting interfaces that are both visually appealing and effortlessly intuitive",
       image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
         twitter: "#",
@@ -51,30 +51,8 @@ export default function Team() {
       },
       delay: 300
     },
-    {
-      name: "David Wilson",
-      role: "Backend Developer",
-      bio: "David is our backend wizard, crafting robust server-side solutions and APIs that power our clients' web applications.",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
-      socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
-      },
-      delay: 400
-    },
-    {
-      name: "Lisa Wang",
-      role: "Frontend Developer",
-      bio: "Lisa specializes in creating responsive, accessible, and performant user interfaces using the latest frontend technologies.",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
-      socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
-      },
-      delay: 500
-    },
+
+ 
    
     {
       name: "Olivia Turner",
