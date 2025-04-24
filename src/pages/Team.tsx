@@ -16,8 +16,8 @@ export default function Team() {
       delay: 0
     },
     {
-      name: "Emily Johnson",
-      role: "Lead Designer",
+      name: "Khushi",
+      role: "Co-Founder",
       bio: "Emily brings creative vision and user experience expertise to every project, ensuring our websites are not just functional but beautiful.",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
@@ -28,8 +28,8 @@ export default function Team() {
       delay: 100
     },
     {
-      name: "Michael Chen",
-      role: "Full Stack Developer",
+      name: "Keshav Jha",
+      role: "founder",
       bio: "Michael is a MERN stack expert with a passion for creating efficient, scalable web applications that deliver exceptional user experiences.",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
@@ -40,8 +40,8 @@ export default function Team() {
       delay: 200
     },
     {
-      name: "Sarah Rodriguez",
-      role: "UX/UI Specialist",
+      name: "Srishti Saumya",
+      role: "Co-",
       bio: "Sarah specializes in creating intuitive user interfaces and seamless user experiences that help our clients connect with their audience.",
       image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
       socialLinks: {
@@ -75,18 +75,7 @@ export default function Team() {
       },
       delay: 500
     },
-    {
-      name: "Robert Garcia",
-      role: "DevOps Engineer",
-      bio: "Robert ensures smooth deployment and operation of our projects, managing our infrastructure and continuous integration processes.",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80",
-      socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
-      },
-      delay: 600
-    },
+   
     {
       name: "Olivia Turner",
       role: "Project Manager",
