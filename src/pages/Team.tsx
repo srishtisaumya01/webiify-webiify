@@ -8,9 +8,11 @@ export default function Team() {
       bio: "Swati builds responsive, high-performance interfaces with precision. Her work ensures our websites are fast, accessible, and pixel-perfect across all devices",
       image: "/lovable-uploads/83de8205-51ec-474e-802a-835bb5f2f243.png",
       socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
+        
+        linkedin: "https://www.linkedin.com/in/swatipriya08/",
+        github: "#",
+        dribbble: "#"
+
       },
       delay: 0
     },
@@ -20,8 +22,8 @@ export default function Team() {
       bio: "Khushi manages client communication, content planning, SEO, and CMS updates to ensure smooth project flow and optimized web presence.",
       image: "/lovable-uploads/109fd978-09c4-4b40-9e3f-6756762ba151.png",
       socialLinks: {
-        twitter: "#",
-        linkedin: "#",
+        linkedin: "https://www.linkedin.com/in/khushi-79554a22b/",
+        github: "#",
         dribbble: "#"
       },
       delay: 100
@@ -32,9 +34,9 @@ export default function Team() {
       bio: "Keshav leads our projects with a sharp focus on innovation and functionality. A full stack expert, he ensures every solution is scalable, efficient, and client-focused",
       image: "/lovable-uploads/431b8abb-f096-4f7c-8d3e-d981dde7a3fb.png",
       socialLinks: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
+        linkedin: "https://www.linkedin.com/in/keshavjha005/",
+        github: "https://github.com/keshavjha005",
+        dribbble: "https://portfolio-keshav-eight.vercel.app/"
       },
       delay: 200
     },
@@ -44,8 +46,8 @@ export default function Team() {
       bio: "Srishti blends creativity with user-centered design, crafting interfaces that are both visually appealing and effortlessly intuitive",
       image: "/lovable-uploads/d978fe81-731b-45f5-b46b-c34174b76ef9.png",
       socialLinks: {
-        twitter: "#",
-        linkedin: "#",
+        linkedin: "https://www.linkedin.com/in/srishtisaumya01",
+        github: "#",
         dribbble: "#"
       },
       delay: 300
