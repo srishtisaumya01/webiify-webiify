@@ -6,11 +6,10 @@ export default function Team() {
       name: "Swati Priya",
       role: "Co-Founder",
       bio: "Swati builds responsive, high-performance interfaces with precision. Her work ensures our websites are fast, accessible, and pixel-perfect across all devices",
-       image: "/src/components/swati.jpg",
-
+      image: "/lovable-uploads/83de8205-51ec-474e-802a-835bb5f2f243.png",
       socialLinks: {
         twitter: "#",
-        linkedin: "https://www.linkedin.com/in/swatipriya08/",
+        linkedin: "#",
         github: "#"
       },
       delay: 0
@@ -19,12 +18,11 @@ export default function Team() {
       name: "Khushi",
       role: "Co-Founder",
       bio: "Khushi manages client communication, content planning, SEO, and CMS updates to ensure smooth project flow and optimized web presence.",
-     image: "/src/components/khushi.jpg",
-
+      image: "/lovable-uploads/109fd978-09c4-4b40-9e3f-6756762ba151.png",
       socialLinks: {
         twitter: "#",
-        linkedin: "https://www.linkedin.com/in/khushi-79554a22b/",
-        github: "#"
+        linkedin: "#",
+        dribbble: "#"
       },
       delay: 100
     },
@@ -32,13 +30,11 @@ export default function Team() {
       name: "Keshav Jha",
       role: "founder",
       bio: "Keshav leads our projects with a sharp focus on innovation and functionality. A full stack expert, he ensures every solution is scalable, efficient, and client-focused",
-      image: "/src/components/keshav7.jpg",
+      image: "/lovable-uploads/431b8abb-f096-4f7c-8d3e-d981dde7a3fb.png",
       socialLinks: {
-         linkedin: "https://www.linkedin.com/in/keshavjha005/",
-        github: "https://github.com/keshavjha005",
-        dribbble: "https://portfolio-keshav-eight.vercel.app/",
-        
-       
+        twitter: "#",
+        linkedin: "#",
+        github: "#"
       },
       delay: 200
     },
@@ -46,20 +42,16 @@ export default function Team() {
       name: "Srishti Saumya",
       role: "Co-Founder",
       bio: "Srishti blends creativity with user-centered design, crafting interfaces that are both visually appealing and effortlessly intuitive",
-       image: "/src/components/srishti.png",
-
+      image: "/lovable-uploads/d978fe81-731b-45f5-b46b-c34174b76ef9.png",
       socialLinks: {
-        
-        linkedin: "https://www.linkedin.com/in/srishtisaumya01",
-        github: "https://github.com/srishtisaumya01",
-        dribbble: ""
+        twitter: "#",
+        linkedin: "#",
+        dribbble: "#"
       },
       delay: 300
     },
-
- 
    
-  
+    
   ];
 
   return (
@@ -72,7 +64,7 @@ export default function Team() {
           <div className="text-center max-w-3xl mx-auto">
             <p className="text-webiify-purple animate-fade-in font-medium mb-4">Our Team</p>
             <AnimatedText 
-              text="Meet the Talented Team Behind webiify" 
+              text="Meet the Talented Team Behind Webiify" 
               element="h1" 
               className="text-3xl md:text-5xl font-bold mb-6"
               gradient="default"
@@ -95,11 +87,13 @@ export default function Team() {
                 className={`bg-gray-50 dark:bg-gray-800 rounded-xl overflow-hidden card-hover animate-fade-in animate-delay-${member.delay}`}
               >
                 <div className="relative group">
-                  <img 
-                    src={member.image} 
-                    alt={member.name} 
-                    className="w-full h-64 object-cover object-center transition-transform duration-500 group-hover:scale-110"
-                  />
+                  <div className="w-full h-64 flex items-center justify-center bg-gray-200 dark:bg-gray-700">
+                    <img 
+                      src={member.image} 
+                      alt={member.name} 
+                      className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105"
+                    />
+                  </div>
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                     <div className="p-4 w-full">
                       <div className="flex justify-center space-x-4">
