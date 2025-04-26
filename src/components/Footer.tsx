@@ -11,8 +11,8 @@ export function Footer() {
 
 <Link to="/" className="inline-block mb-6">
   <img
-    src="public/lovable-uploads/b9b7d557-456c-45f5-aa1c-ffd0b29975bd.png"
-    alt=""
+       src="/lovable-uploads/2a34f41e-9667-4cdf-bd13-408a3527695a.png"
+    alt="logo"
     className="h-12"
   />
 </Link>

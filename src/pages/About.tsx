@@ -2,6 +2,8 @@
 import { AnimatedText } from "@/components/AnimatedText";
 
 export default function About() {
+
+  
   return (
     <>
       {/* Hero Section */}
