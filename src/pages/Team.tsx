@@ -148,13 +148,7 @@ export default function Team() {
         
         <div className="container mx-auto px-4 sm:px-6">
           <div className="max-w-3xl mx-auto text-center">
-            <AnimatedText 
-              text="Join Our Growing Team" 
-              element="h2" 
-              className="text-white text-2xl md:text-4xl font-bold mb-6"
-              gradient="none"
-              animation="fade"
-            />
+            
             <p className="text-white/80 text-lg mb-8 animate-fade-in animate-delay-100">
             webiify was founded by four passionate friends who shared a common dream—to make high-quality, custom websites accessible to everyone. What started as a small idea has grown into a dynamic and rapidly expanding web development company, driven by creativity, innovation, and a deep understanding of digital needs.
 
