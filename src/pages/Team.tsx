@@ -158,20 +158,7 @@ Our success is fueled by an exceptional team of designers, developers, and digit
 
 As we continue to grow, our commitment remains the same—to craft impactful digital experiences and help our clients thrive in the online world.
             </p>
-            <div className="flex justify-center space-x-4 animate-fade-in animate-delay-200">
-              <a 
-                href="#" 
-                className="bg-white text-webiify-blue py-3 px-6 rounded-md font-medium hover:bg-white/90 transition-colors"
-              >
-                View Open Positions
-              </a>
-              <a 
-                href="#" 
-                className="bg-transparent text-white border border-white py-3 px-6 rounded-md font-medium hover:bg-white/10 transition-colors"
-              >
-                Send Speculative Application
-              </a>
-            </div>
+            
           </div>
         </div>
       </section>
