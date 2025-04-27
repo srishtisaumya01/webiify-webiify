@@ -156,7 +156,13 @@ export default function Team() {
               animation="fade"
             />
             <p className="text-white/80 text-lg mb-8 animate-fade-in animate-delay-100">
-              We're always looking for talented individuals to join our team. If you're passionate about web development and creating exceptional digital experiences, we'd love to hear from you.
+            webiify was founded by four passionate friends who shared a common dream—to make high-quality, custom websites accessible to everyone. What started as a small idea has grown into a dynamic and rapidly expanding web development company, driven by creativity, innovation, and a deep understanding of digital needs.
+
+At webiify, we specialize in creating tailored websites that reflect the unique identity and goals of each client. Whether it's a personal portfolio, a small business site, or a full-scale e-commerce platform, we ensure every project is built with precision, performance, and user experience in mind.
+
+Our success is fueled by an exceptional team of designers, developers, and digital strategists. Each member brings a unique set of skills and a shared passion for excellence, allowing us to consistently deliver results that exceed expectations.
+
+As we continue to grow, our commitment remains the same—to craft impactful digital experiences and help our clients thrive in the online world.
             </p>
             <div className="flex justify-center space-x-4 animate-fade-in animate-delay-200">
               <a 
